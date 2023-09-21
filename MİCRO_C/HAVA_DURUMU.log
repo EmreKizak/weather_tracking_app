@@ -1,0 +1,15 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo10 -N"C:\Users\emrek\OneDrive\Masaüstü\EMRE_KIZAK_13018463668\MÝCRO_C\HAVA_DURUMU.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\emrek\OneDrive\Masaüstü\EMRE_KIZAK_13018463668\MÝCRO_C\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "HAVA_DURUMU.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_88X.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	HAVA_DURUMU.c
+diagnostics: 142	123	Compiled Successfully	HAVA_DURUMU.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+warning: 0	1511	IRP bit must be set manually for indirect access to '	HAVA_DURUMU.c
+0	0		
+warning: 0	1511	IRP bit must be set manually for indirect access to '	HAVA_DURUMU.c
+0	0		
+hint: 0	1144	Used RAM (bytes): 206 (59%)  Free RAM (bytes): 146 (41%)	Used RAM (bytes): 206 (59%)  Free RAM (bytes): 146 (41%)
+hint: 0	1144	Used ROM (program words): 2252 (27%)  Free ROM (program words): 5940 (73%)	Used ROM (program words): 2252 (27%)  Free ROM (program words): 5940 (73%)
+diagnostics: 0	125	Project Linked Successfully	HAVA_DURUMU.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'HAVA_DURUMU.mcppi' completed: 125 ms	 
+diagnostics: 0	103	Finished successfully: 24 Ara 2022, 18:54:34	HAVA_DURUMU.mcppi
